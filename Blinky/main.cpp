@@ -2,7 +2,7 @@
  * main.cpp
  *
  *  Created on: Mar 5, 2010
- *      Author: me
+ *      Author: jag
  */
 #include <Arduino.h>
 
